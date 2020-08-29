@@ -4,6 +4,7 @@ public class Province {
 
     private Integer id;
     private String name;
+    private String remark;//B：新增了功能
 
     public Integer getId() {
         return id;
